@@ -2,6 +2,7 @@
 Hey there! I’m a Data Analyst in the making, transitioning from a Data Test Engineer to a Business Intelligence Developer. Currently pursuing my Master’s in Data Analytics in Ireland, I’m passionate about data storytelling, visualization, and predictive analytics.
 
 💡 What I do:
+
 🔹 Analyze and visualize rugby data as a Rugby Data Collection Analyst
 
 🔹 Work with Power BI, Excel, and Snowflake to create insightful dashboards
@@ -10,7 +11,7 @@ Hey there! I’m a Data Analyst in the making, transitioning from a Data Test En
 
 🔹 Experiment with EDA techniques on datasets like car insurance and Swiggy order trends
 
-
+---------------------------------
 🎯 What I’m aiming for:
 
 🚀 Mastering BI tools & SQL to become a top-notch BI Developer
