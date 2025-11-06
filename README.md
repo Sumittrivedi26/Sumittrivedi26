@@ -3,9 +3,11 @@ Hey there! I’m a Data Analyst in the making, transitioning from a Data Test En
 
 💡 What I do:
 
+🔹 Analyze ,visualize & Automate Real Estate data leaveraging AI.
+
 🔹 Analyze and visualize rugby data as a Rugby Data Collection Analyst
 
-🔹 Work with Power BI, Excel, and Snowflake to create insightful dashboards
+🔹 Work with Power BI, SQL Server, Excel, Snowflake to create insightful dashboards
 
 🔹 Explore data pre-processing and feature engineering to extract valuable insights
 
