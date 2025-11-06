@@ -1,4 +1,4 @@
-## 🚀 Data Enthusiast | BI Developer in Progress | Rugby Data Analyst 👋
+## 🚀 Data Enthusiast | BI Developer | Data Storyteller | Data Analyst 👋
 Hey there! I’m a Data Analyst in the making, transitioning from a Data Test Engineer to a Business Intelligence Developer. Currently pursuing my Master’s in Data Analytics in Ireland, I’m passionate about data storytelling, visualization, and predictive analytics.
 
 💡 What I do:
